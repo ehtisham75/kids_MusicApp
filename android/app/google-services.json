@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958967782375",
+    "project_id": "kid-music-instrument-app",
+    "storage_bucket": "kid-music-instrument-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958967782375:android:20c5e4604beeb22d92fb42",
+        "android_client_info": {
+          "package_name": "com.gtech.kids_music_instrument"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958967782375-atolrn10v3nm64of9q8rv8vckieuvpoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9wH9t4W1b3if25tQ36auKzfp8yicvqU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958967782375-atolrn10v3nm64of9q8rv8vckieuvpoc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
